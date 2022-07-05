@@ -1,2 +1,2 @@
 # kafka
-This is a test to invoke Jenkins pipeline now !
+This is a good test to invoke Jenkins pipeline now !
